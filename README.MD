@@ -4,7 +4,7 @@ SAST (Sonarqube) --> Buil Project --> Container Scan --> Push Image --> DAST (Bu
 
 ..
 
-# WebGoat 8: A deliberately insecure Web Application
+# RD WebGoat 8: A deliberately insecure Web Application
 
 [![Build Status](https://travis-ci.org/WebGoat/WebGoat.svg?branch=develop)](https://travis-ci.org/WebGoat/WebGoat)
 [![Coverage Status](https://coveralls.io/repos/WebGoat/WebGoat/badge.svg?branch=develop&service=github)](https://coveralls.io/github/WebGoat/WebGoat?branch=master)
